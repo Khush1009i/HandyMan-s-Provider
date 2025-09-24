@@ -11,7 +11,7 @@ It allows service providers to manage bookings, update profiles, and serve custo
 
 ---
 
-## 📸 UI of APP  
+## 📱 App's UI
 
 <p align="center">
   <img src="https://github.com/Khush1009i/HandyMan-s-Provider/blob/0c11d3095012dbb799211981a4065e69961a54ea/images/home.png" alt="App Screenshot 1" width="45%" style="border-radius: 10px;"/>  
